@@ -30,4 +30,7 @@ python -m pip install -U \
 
 python -m pip install tavily-python
 
+python3 -m pip install -U langchain-openai
+
+
 pip install -r requirements.txt
