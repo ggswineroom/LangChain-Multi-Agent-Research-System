@@ -1,4 +1,4 @@
-from src.agents.agents import build_reader_agent, build_search_agent,Writer_chain, critic_chain
+from src.agents.agents import Writer_chain, build_reader_agent, build_search_agent, critic_chain
 
 def run_research_pipeline(topic: str) -> dict:
     
