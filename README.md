@@ -32,5 +32,8 @@ python -m pip install tavily-python
 
 python3 -m pip install -U langchain-openai
 
+streamlit run app.py
+
+
 
 pip install -r requirements.txt
